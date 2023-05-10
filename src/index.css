@@ -1,0 +1,8 @@
+.f1page{}
+
+/* media query for all class */
+@media (max-width: 1000px) {
+  .f1page{
+    display:none;
+  }
+}
